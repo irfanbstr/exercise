@@ -1,0 +1,10 @@
+tesseract scan.png hasil.txt -l eng
+http://hanzratech.in/2015/01/16/ocr-using-tesseract-on-ubuntu-14-04.html
+https://github.com/tesseract-ocr/tesseract
+https://ubuntu.flowconsult.at/linux/ocr-tesseract-text-recognition-ubuntu-14-04/
+https://medium.com/@lucas63/installing-tesseract-3-04-in-ubuntu-14-04-1dae8b748a32
+
+algoritma
+1. open original matrix
+2. melakukan writeImage tiap detik
+3. melakukan tesseract tiap foto
